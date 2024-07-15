@@ -36,3 +36,8 @@
   font-display: swap;
   font-weight: 700;
 }
+@font-face {
+  font-family: "YeZiGongChangCangNanShouJi";
+  src: url("YeZiGongChangCangNanShouJi.ttf");
+  font-display: swap;
+}
