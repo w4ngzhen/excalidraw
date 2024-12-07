@@ -18,26 +18,36 @@
   font-display: swap;
   font-weight: 400;
 }
+
 @font-face {
   font-family: "Assistant";
   src: url("Assistant-Medium.woff2");
   font-display: swap;
   font-weight: 500;
 }
+
 @font-face {
   font-family: "Assistant";
   src: url("Assistant-SemiBold.woff2");
   font-display: swap;
   font-weight: 600;
 }
+
 @font-face {
   font-family: "Assistant";
   src: url("Assistant-Bold.woff2");
   font-display: swap;
   font-weight: 700;
 }
+
 @font-face {
   font-family: "YeZiGongChangCangNanShouJi";
   src: url("YeZiGongChangCangNanShouJi.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NiShiYinHeDeXuanLv";
+  src: url("NiShiYinHeDeXuanLv.ttf");
   font-display: swap;
 }

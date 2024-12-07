@@ -780,7 +780,7 @@ export const actionChangeFontFamily = register({
         testId: "font-family-virgil",
       },
       {
-        value: FONT_FAMILY.YeZiGongChangCangNanShouJi,
+        value: FONT_FAMILY.NiShiYinHeDeXuanLv,
         text: '中文手写',
         icon: FreedrawIcon,
         testId: "font-family-virgil",

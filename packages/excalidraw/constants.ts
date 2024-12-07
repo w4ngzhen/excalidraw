@@ -2,6 +2,7 @@ import cssVariables from "./css/variables.module.scss";
 import type { AppProps } from "./types";
 import type { ExcalidrawElement, FontFamilyValues } from "./element/types";
 import { COLOR_PALETTE } from "./colors";
+
 export const isDarwin = /Mac|iPod|iPhone|iPad/.test(navigator.platform);
 export const isWindows = /^Win/.test(navigator.platform);
 export const isAndroid = /\b(android)\b/i.test(navigator.userAgent);
@@ -120,7 +121,7 @@ export const FONT_FAMILY = {
   Helvetica: 2,
   Cascadia: 3,
   Assistant: 4,
-  YeZiGongChangCangNanShouJi: 5,
+  NiShiYinHeDeXuanLv: 5,
 };
 
 export const THEME = {
